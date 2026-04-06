@@ -57,17 +57,11 @@ Crypto assets do not fit neatly within existing accounting categories. Practitio
 
 ---
 
-## How to Cite
-
-> Giri, N. (2026). *IFRS and Crypto Assets: Navigating Accounting in the Digital Asset Era*. Independent Research. Available at: https://github.com/niteshgiri/ifrs-crypto-research
-
----
-
 ## About the Author
 
 **CA Nitesh Giri** is a Chartered Accountant qualified under the Institute of Chartered Accountants of Nepal (ICAN), with a focus on financial reporting, digital assets, and the intersection of accounting standards with emerging technologies.
 
-📬 Connect on [LinkedIn](https://www.linkedin.com/in/niteshgiri)
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/nitesh-giri-349867266/)
 
 ---
 
